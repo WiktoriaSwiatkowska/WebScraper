@@ -3,7 +3,7 @@
 ### Steps 1-3
 1. Provide url of the products opinions page
 2. Send the request to provided url
-3. Fetch the product's name
+3. Fetch the product name
 4. Fetch all opinions from the webpage
 5. Parse opinions to extract required data
 6. Check if there is next page with opinions
